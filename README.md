@@ -14,25 +14,25 @@
      - Interactive Cursor
      - Fun
    
-## **Instructions For Use:**
+## Instructions For Use:
 > You can access my project via [GitHub Pages](https://ryanblount-2.github.io/ball-project/).
 
 > You can also access my project locally on your own computer by following the following steps:    
 
-      1) Save all of the files to the same directory on your local computer.
-      2) Drag the index.html file to your favorite browser.
-      3) Reminisce on the days when this was every computer screensaver.    
+    1) Save all of the files to the same directory on your local computer.
+    2) Drag the index.html file to your favorite browser.
+    3) Reminisce on the days when this was every computer screensaver.    
 
-## **Usage:**
+## Usage:
 > Simply for enjoyment.
 
-## **Support:** 
+## Support: 
 > [LinkedIn Profile](https://linkedin.com/in/ryanblount2)  
 
-## **Roadmap:**
+## Roadmap:
 > Future improvements such as more interactivity and more balls are in the plans.
 
-## **License:**
+## License:
 
 > MIT License
 >
