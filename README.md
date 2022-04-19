@@ -1,4 +1,8 @@
-# Ball Interactive Animation
+# Ball Project
+Ball Interactive Animation
+
+![Ball Project](Images/Ball-Image.png "Ball Project")
+<!-- <img src="Images/Ball-Image.png" alt="Ball Project" width="1000" height="600"> -->
 
 > ## Description:
    This is a ball interactive animation created with HTML & JavaScript to showcase skills I've learned in the MIT xPro Coding Bootcamp.
