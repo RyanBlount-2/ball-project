@@ -33,7 +33,6 @@
 > Future improvements such as more interactivity and more balls are in the plans.
 
 ## License:
-
 > MIT License
 >
 > Copyright (c) 2022 Ryan Blount
